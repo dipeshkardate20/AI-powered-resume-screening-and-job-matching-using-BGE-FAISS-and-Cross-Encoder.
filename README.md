@@ -194,22 +194,4 @@ To regenerate them:
 
 ---
 
-## 👨‍💻 Author
 
-<div align="center">
-
-**Aditya Santosh Khade**
-
-B.Tech Civil Engineering · Indian Institute of Technology Kharagpur
-
-🔗 [LinkedIn](https://www.linkedin.com/in/aditya-khade-81b630322?utm_source=share_via&utm_content=profile&utm_medium=member_android) &nbsp;·&nbsp; 💻 [GitHub](https://github.com/Adityace05)
-
-</div>
-
----
-
-<div align="center">
-
-### ⭐ If you found this project useful, consider giving it a star!
-
-</div>
